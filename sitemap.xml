@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bito.cc//404.html</loc>
+    
+    <lastmod>2016-07-19T13:00:56.823Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bito.cc/tags/index.html</loc>
+    
+    <lastmod>2016-07-19T11:47:36.854Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bito.cc/categories/index.html</loc>
+    
+    <lastmod>2016-07-19T11:47:29.318Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://bito.cc/about/index.html</loc>
     
-    <lastmod>2016-07-18T02:01:53.451Z</lastmod>
+    <lastmod>2016-07-19T11:28:18.819Z</lastmod>
     
   </url>
   
@@ -12,20 +33,6 @@
     <loc>http://bito.cc/markdown-note/</loc>
     
     <lastmod>2016-07-18T01:22:14.102Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bito.cc/tags/index.html</loc>
-    
-    <lastmod>2016-07-12T03:45:25.829Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bito.cc/categories/index.html</loc>
-    
-    <lastmod>2016-07-12T03:44:05.030Z</lastmod>
     
   </url>
   
