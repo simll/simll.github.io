@@ -1,2 +1,3 @@
+User-agent: *
 Disallow: /baidu_verify_n7C3ioqv91.html
 Disallow: /google25071c7687eaf49f.html
